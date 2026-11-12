@@ -1,0 +1,5 @@
+# 复制本文件并改名为「配置.txt」，把你的 DeepSeek key 粘在等号后面，保存后双击「启动.command」
+LLM_API_KEY=
+
+# 一般不用改
+ADMIN_KEY=local

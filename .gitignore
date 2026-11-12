@@ -1,0 +1,13 @@
+# 白名单：默认什么都不进仓库，只放行下面列出的代码文件
+*
+!.gitignore
+!README.md
+!申报.md
+!server.js
+!setup.sh
+!启动.command
+!knowledge.md
+!配置.example.txt
+!public/
+!public/**
+.DS_Store
